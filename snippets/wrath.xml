@@ -66,6 +66,8 @@
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="wrath" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="wrath" />
   <project path="packages/apps/Wrath" name="android_packages_apps_Wrath" remote="wrath" />
+  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="wrath" />
+  <project path="packages/apps/Phonograph" name="android_packages_apps_Phonograph" remote="wrath" />
   
   <!-- External repos -->
   <project path="external/tinycompress" name="android_external_tinycompress" remote="wrath" />
