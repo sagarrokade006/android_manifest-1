@@ -47,4 +47,7 @@ Credits:
  * [**POSP**](https://github.com/PotatoProject)
  * [**Havoc**](https://github.com/Havoc-OS)
  * [**Nitrogen**](https://github.com/nitrogen-project)
+ * [**ProjectXtended**](https://github.com/Project-Xtended)
+ * [**CherishOS**](https://github.com/https://github.com/CherishOS)
+ * [**ColtOS**](https://github.com/https://github.com/Colt-Enigma)
 -----------------------------------------------------------------------------
