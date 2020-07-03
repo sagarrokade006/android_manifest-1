@@ -79,5 +79,8 @@
   <project path="system/netd" name="android_system_netd" remote="wrath" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="wrath" />
   <project path="system/vold" name="android_system_vold" remote="wrath" />
-
+ 
+ <!-- Vendor Repos -->
+  <project path="vendor/lawnchair" name="android_vendor_lawnchair" remote="wrath" />
+  
 </manifest>
